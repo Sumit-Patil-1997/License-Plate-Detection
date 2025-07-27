@@ -18,9 +18,11 @@ This project implements a license plate detection system using a custom object d
   
 ├── dataset/   # Roboflow COCO-format dataset
 
-├── License_Plate_Detection.ipynb    # Training script
+├── License_Plate_Detection.py   # Training script
 
-└── README.md    # Project documentation
+├── License_Plate_Detection_Inference.py   # Inferense script
+
+└── README.md     # Project documentation
 
 
 =====================================================================================
