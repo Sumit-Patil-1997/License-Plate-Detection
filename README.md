@@ -26,7 +26,9 @@ This project implements a license plate detection system using a custom object d
 =====================================================================================
 
 📥 Dataset - Roboflow
+https://public.roboflow.com/object-detection/license-plates-us-eu?utm_source
 
+And 
 
 Dataset is downloaded directly from Roboflow Universe using their API:
 --------------------------------------------------------------------------------------
